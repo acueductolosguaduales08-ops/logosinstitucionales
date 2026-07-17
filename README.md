@@ -10,4 +10,8 @@
 <img width="100" alt="Firma Laura" src="https://github.com/user-attachments/assets/a8210ecc-b00f-42cc-94eb-ebbfcf3578ad" />
 
 
-https://acueductolosguaduales08-ops.github.io/logosinstitucionales/
+https://acueductolosguaduales08-ops.github.io/logosinstitucionales/0X1LxMDYyXoUQWISqwY4.png
+
+https://acueductolosguaduales08-ops.github.io/logosinstitucionales/guaduales.png
+
+https://acueductolosguaduales08-ops.github.io/logosinstitucionales/laura-Firma.png
